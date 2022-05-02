@@ -1,0 +1,20 @@
+#include<iostream>
+int main()
+{
+	int aa;
+	int c;
+	aa = 1;
+	c = aa;
+	while(0)
+	{
+		float ab123;
+		ab123=1.2e2;
+		while(1)
+		{
+			break;
+		}
+		
+	}
+	complex d = 2i+1;
+	return 1;	
+}
